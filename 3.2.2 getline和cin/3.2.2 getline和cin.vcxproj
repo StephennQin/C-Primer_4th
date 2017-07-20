@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{69282A94-8A5B-4D42-86BA-6E75C4A88672}</ProjectGuid>
+    <ProjectGuid>{6B66171E-5B3E-4E39-967F-A6D5AFC93122}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CPrimer_4th</RootNamespace>
+    <RootNamespace>My322getline和cin</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3.2.2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
